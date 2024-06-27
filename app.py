@@ -93,7 +93,7 @@ form_html = """
 </head>
 <body>
 <h1>Bearblog Sentiment Scores</h1>
-<p>Find a bearblog you like <a href="https://bearblog.dev/discover" target="_blank">here</a>. Copy and paste the domain below.</p>
+<p>Find a bearblog you like <a href="https://bearblog.dev/discover" target="_blank">here</a> (ex. macabe.info or herman.bearblog.dev). Copy and paste the domain below.</p>
 <form>
     <b>Bearblog Domain:</b> <input type="text" name="domain">
     <input type="submit" value="Do the thing">
