@@ -52,6 +52,7 @@ form_html = """
             height: 20px;
             background-color: green;
             display: none;
+            padding: 3px;
         }
     </style>
     <script>
@@ -96,7 +97,7 @@ form_html = """
 <form>
     <b>Bearblog Domain:</b> <input type="text" name="domain">
     <input type="submit" value="Do the thing">
-</form>
+</form><br></br>
 <div id="statusBar"></div>
 <div class="container">
     <p>You'll receive the sentiment analysis results for each post under that domain, as well as the average compound score at the top of the results.</p>
