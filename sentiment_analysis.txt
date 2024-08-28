@@ -1,0 +1,626 @@
+Average Compound Score: 0.866465
+
+Title: 🪶 thoughts on group dynamics pt.1
+Link: http://macabe.info/thoughts-on-group-dynamics-pt1/
+Date: 
+
+
+                    13 Mar, 2024
+                
+
+
+Content:
+🪶 thoughts on group dynamics pt.1
+13 Mar, 2024
+Teammates share a common goal or mission with each other. Expectations of the team become the means for an individual to achieve goals. This shared accountability for the self and group is what drives progress for both parties (assuming incentives are in order).
+
+Difficulty arises in finding the blend of group and self. Each team is different. Each team has its obstacles. Most teams don't last because they are not built to. They are built for mainly one thing at one point in time. Building them is the point.
+#thoughts#writing
+
+Sentiment Scores: {'neg': 0.046, 'neu': 0.82, 'pos': 0.134, 'compound': 0.8176}
+================================================================================
+
+Title: 📚 Flash Boys by Michael Lewis
+Link: http://macabe.info/flash-boys-by-michael-lewis/
+Date: 
+
+
+                    22 Oct, 2023
+                
+
+
+Content:
+📚 Flash Boys by Michael Lewis
+22 Oct, 2023
+Buy here
+Disclaimer: I still need to read his recent book on SBF, Going Infinite. Weird time for Michael Lewis.
+This is a captivating story of the high-frequency trading (HFT) industry, written in Lewis's signature narrative style. He has an incredible ability to dissect complex financial topics for the layperson (if you've seenThe Big Shortyou know this well). Sharp wit, vivid anecdotes, and a keen eye for the human drama behind the numbers, his writing style is a personal favorite.
+The book begins and ends with the same character, Sergey Aleynikov. He is portrayed as a brilliant and principled coder who previously worked at Goldman Sachs. His journey becomes a microcosm of the broader issues Lewis addresses. Aleynikov is initially hired by Goldman Sachs to develop algorithms for high-frequency trading, where he becomes intimately familiar with the proprietary code that allows the firm to execute trades athigh frequency, giving Goldman Sachs a significant advantage in the markets.
+However, what makes Aleynikov's story so compelling is the moral dilemma he faces. He becomes disillusioned with the system and is troubled by the predatory nature of HFT. So does this other guy in the story, Brad Katsuyama, a co-founder of the exchange IEX. UNfortuanetly for Aleynikov, he copies Goldman Sachs' code which he wrote using open-source libraries and thinking nothing of it because of the licensing of open-source. He did this before he left Goldman, who then got the FBI involved.
+This pivotal event sets the stage for a legal and ethical battle. Sergey Aleynikov is arrested, tried, and convicted, which becomes a high-profile case in the world of finance. You see Aleynikov as a sympathetic character, a whistleblower of sorts, who takes on the powerful forces of Wall Street. Brad is the guy who you could say "get's it done."
+Lewis takes a partisan stance in his storytelling. He clearly sympathizes with the engineers who seek to level the playing field in the financial markets. The guys playing with the speed of light. He portrays them as underdogs in a battle against the old guard of Wall Street traders who have profited from a system rigged in their favor for years. This partisan approach adds a layer of endorsement to his storytelling. It was a nice "short" read after the the Neal Stephenson novel. Highly recommend.
+#books#economics
+
+Sentiment Scores: {'neg': 0.048, 'neu': 0.827, 'pos': 0.125, 'compound': 0.981}
+================================================================================
+
+Title: 📚 American Default by Sebastian Edwards
+Link: http://macabe.info/american-default-by-sebastian-edwards/
+Date: 
+
+
+                    05 Sep, 2023
+                
+
+
+Content:
+📚 American Default by Sebastian Edwards
+05 Sep, 2023
+Buy here
+The economic landscape of the 1930's was a tumultuous one for the United States. While reading, a few things stuck out.
+Changing perspectives on FDR
+Before delving into the book, I, like many, held FDR in high regard among U.S Presidents. The New Deal policies you go over in history class are often credited with rescuing the nation from the depths of the Great Depression. However, this book challenged the frame of mind I held. It revealed the extent which Roosevelt was willing to manipulate the economic landscape to secure political advantages. Edwards' research and storytelling made me question my stance on FDR's legacy.
+Gold and what it represents
+The full title of the book isAmerican Default - The Untold Story of FDR, the Supreme Court, and the Battle over Gold. The gold standard meant the U.S. dollar was backed by a fixed amount of gold, and the government was committed to maintaining the value of the dollar in terms of gold. This commitment to convertibility instilled confidence in the dollar and limited the government's ability to manipulate the money supply. Then the Depression happened. After the Depression the gold standard presented challenges for the U.S. economy. Maintaining it meant keeping the value of the dollar stable, which meant contractionary policies like higher interest rates and reduced money supply. Only adding fuel to the fire that was the economic crisis. Edwards goes into detail about the perspectives oncontract lawfrom both sides of the discussion.
+Economic manipulation for political gain
+FDR's 1932 campaign ran around the idea of raising commodity prices and providing relief to the unemployed. The real question is how do you raise commodity prices? In 1933 we abandoned the gold standard. FDR's administration needed to stimulate the economy and fight deflation, and chose to devalue the dollar. It boosted exports and domestic production. It gave the US an advantage in international trade negotiations, and most of the worlds gold began to move onto US soil. However, it was a new high, a new power, that no president had held prior. FDR realized this, and so did hisBrain Trust. This brings me to my favorite quote in the book.
+... George F. Warren was the most influential economist in the world. Almost every morning during November and December (1933), he met with FDR while the president was still in bed, and helped him decide the price at which the government would buy gold during the next twenty-four hours. Henry Morgenthau Jr. who often attended these meeting, confined to his diary that the process had a cabalistic dimension to it. In selecting the daily price, FDR would, jokingly, consider the meaning of numbers, or flip coins... He would then write the new price on a piece of paper, which he handed to Jesse Jones, the chairman of Reconstruction Finance Corporation.
+Mybitcoinbrain had a few flutters throughout the book. It's very existence highlights the enduring concern about government interference with financial matters.
+Overall this book was good, not great. Any book that challenges my long-held perceptions is good.
+#books#economics#history
+
+Sentiment Scores: {'neg': 0.067, 'neu': 0.801, 'pos': 0.132, 'compound': 0.9844}
+================================================================================
+
+Title: 📚 Cryptonomicon by Neal Stephenson
+Link: http://macabe.info/cryptonomicon-by-neal-stephenson/
+Date: 
+
+
+                    18 Aug, 2023
+                
+
+
+Content:
+📚 Cryptonomicon by Neal Stephenson
+18 Aug, 2023
+Buy here
+I ended up reading a few other books amidst consuming this. The book could not be made into a movie, but rather a 5 season show  with hr long episodes at 10-12 per season. It was my first time reading Neal Stephenson and the genre of historical fiction.
+Neal's writing style and depth of knowledge surrounding technology in the late 1990's put this book amongst one of my favorites. The descriptive passages are vivid and transporting, whether he's depicting the cryptic jungles of Bletchley Park, the bustling streets of Manila, or taking you inside the minds of Randy and Avi thinking through problems.
+You follow along two parallel narratives. One is set against the backdrop of WW2 with Lawrence Pritchard Waterhouse, Bobby Shaftoe, and some influence from names like Churchill, Roosevelt, MacArthur, and Turing. Lawrence is a mathematical genius, and after the war, is invited to start up the previously non-existent NSA. The second timeline is with the grandson of Lawrence, Randy Waterhouse. A crypto-hacker who is attempting to build a data-haven in Southeast Asia. Described as a place where data can be stored and exchanged free of repression or scrutiny.
+Neal's ability to explain complex mathematical and technological concepts in an accessible manner is commendable. You can grasp the intricacies of cryptography without feeling overwhelmed. If you like history and technology, this story is a perfect fusion of the two.
+I can dig into snapshots of the story with Goto Dengo and Bobby Shaftoe, but I'd rather keep it surface level as the book is long. My favorite themes were the interplay between secrecy and trust, and the power of information. It prompts you to contemplate the implications of cryptography in our world today.
+Long (for me), but worth it.
+#books#fiction#history
+
+Sentiment Scores: {'neg': 0.046, 'neu': 0.85, 'pos': 0.103, 'compound': 0.9656}
+================================================================================
+
+Title: 📚 Blitzed: Drugs in the Third Reich by Norman Ohler
+Link: http://macabe.info/blitzed-drugs-in-the-third-reich-by-norman-ohler/
+Date: 
+
+
+                    26 Jun, 2023
+                
+
+
+Content:
+📚 Blitzed: Drugs in the Third Reich by Norman Ohler
+26 Jun, 2023
+Buy here
+Patrick O'Shaughnessyaskedfor a 'radical' book recommendation the other day, and this immediately came to mind. Norman does a great job using archives of journals, contracts, and prescriptions among other documents to illustrate the neurochemistry of Nazi Germany. It does not try to point to the consumption of drugs as the sole reason for why things happened the way they did, but rather detail the importance of pharmacology at the beginning of World War II, as well as the end.
+The main character of the story is Theo Morell, the personal physician of Hitler (Patient A). He first encounters Patient A when he is brought in to treat a case of eczema in 1936. Slowly but surely Morell becomes the dealer to Patient A and other high ranking officials. Pervitin was first.
+The commercial name for methamphetamine in Nazi Germany. It would allow soldiers to stay up for days, proving extremely valuable in early stages of the war. You could call blitzkrieg a direct result to soldiers, pilots, and tank operators strung out on meth.
+In the final stages of the war, Patient A was taking morphine derivatives such as eukodal or oxycodone, meth, cocaine, hormone-rich animal liver injections, and other hormonal treatments that today we would call bat-shit crazy. Eventually the injections (the preferred method of Patient A) would stop due to thick, jelly-like blood. 14 year old soldiers were taking Pervitin while operating one-man (too small for a man, so children operated) submarines. A last ditch effort to retake the sea as U-Boats had lost their might. Morell, liked by Patient A for his untraditional and experimental approach to pharmacology, was eventually banished by Patient A in the waning days of defeat.
+Morell, the dealer, had run out of product. The British bombing manufacturing facilities resulted in no more drugs. The withdrawal began and Patient A's paranoia, and nihilistic tendencies amplified. The junkie who ridiculed those who were not sober would eventually kill himself in a matter of days. Morell ended up in Tegernsee after being a prisoner for 2 years with the Americans. Homeless and demoralized, a half-jewish Red cross nurse took pity on him and put him in a hospital until he died a year later in 1948.
+I took a break from Cryptonomicon to read this. It proved worthy as the story captured me by trying to imagine, and theorize the neurochemistry of a nation, a leader, and the nature of addicts to the war that set the playing field for modern day.
+#books#history
+
+Sentiment Scores: {'neg': 0.135, 'neu': 0.792, 'pos': 0.073, 'compound': -0.9891}
+================================================================================
+
+Title: 🪶 hardware, software, and van eck
+Link: http://macabe.info/hardware-software-and-van-eck/
+Date: 
+
+
+                    20 Jun, 2023
+                
+
+
+Content:
+🪶 hardware, software, and van eck
+20 Jun, 2023
+In a recent job interview a CTO and I discussed van eck phreaking. Also known as atempest attack. We were discussing the company’s hardware & software teams and I asked what it’s like to oversee the two. He said something along the lines of how close their work is, but how far away the two can be in certain discussions. It rang eerily familiar to the part in Cryptonomicon when Avi mentioned van eck phreaking, so I snuck it into the conversation a little later.
+This led to the gem of our entire conversation. He said, “it’s really neat to think about how complexity grows as you move up each layer from hardware.” This came after he discussed how hardware people are like,my rules are physicsand software people are more like,my rules are computational logicand then hardware people go,that relies on physics.
+Talked to three people at the company that day, and I can't recall conversations with the other two including the CEO, but this statement about complexity moving up layer by layer rang in my head the entire 45 minute drive home. Yeah, complexity is a good abstraction fortelling storiesto ourselves and others, and might show that you understand something when you really don't, but this was fine in regards to our discussion. Largely due to the fact that we were discussing attack surfaces to begin with, and a lack of understanding is one cause to such vulnerabilities.
+He referenced the evolution from analog computers to computers with amazing OS’s, massive applications, then to mobile, then to cloud, and how the more complex an ecosystem, the more vulnerabilities arise.
+All in all, this conversation reminded me that while software often hogs the limelight, it's the unsung heroes—the hardware teams—who shape the physical realm that brings our software wonders to life. As technology marches forward, from analog to mind-boggling operating systems, it's a constant reminder that complexity is the playground where both innovation and exploitation thrive.
+So, as we wade through the waters of technological progress and the imminent arrival of software's new abodes, let's not forget the metallurgists behind the scenes. Their mastery of hardware is the foundation on which our digital dreams are built. In this dance between hardware and software, understanding and appreciating both sides ensures we waltz securely through the ever-changing landscape of technology, while keeping the mischievous vulnerabilities at bay.
+PS: I want an at home DIY hardware project, let me know of any good ones.
+#infosec#tech#thoughts
+
+Sentiment Scores: {'neg': 0.033, 'neu': 0.861, 'pos': 0.106, 'compound': 0.9872}
+================================================================================
+
+Title: 🪶 OSI model walkthrough
+Link: http://macabe.info/osi-model-walkthrough/
+Date: 
+
+
+                    23 Mar, 2023
+                
+
+
+Content:
+🪶 OSI model walkthrough
+23 Mar, 2023
+Overview
+This model provides a framework to understand networks, and the activity that occurs within them. It is great for understanding what we know as theinternet; an open system of interconnection. The model has seven layers, and we follow it top to bottom and bottom to top. Different protocols are at different layers for different types of data transfer. I enjoy charts, maps, and visualizations of the like, so when I found a chart that was summarized by "this is how the internet works" I became enthralled.
+Generalist Perspective
+Each computerized device is considered a node if it is connected to a network. Nodes are connected through links (wired or wireless). When they talk to one another, they use protocols. These are pretty much a set of rules that give order and allow nodes to talk. If you're interested in why, or how the protocols are chosen check out the Internet Engineering Task Force(IETF)and read about theprotocol warsfor some entertainment and background.
+The types of protocols vary, but resemble the rules of a road. What is the speed limit? Does the road have a double yellow or a white dashed line? What side do I drive on?
+However, human error does not frequent protocols as much as it does the road. With that in mind let us begin.
+1. Physical Layer
+If you are learning programming and keep asking the question ofwhereyou will ultimately find yourself here. The most complex layer of them all! Check out thismapof the submarine cables that connect the world. The part of the physical layer I find most interesting is that you are playing with the speed of light. It is also the most crucial to security, as thisbookexplains.
+If something is wrong at layer 1, nothing on layers 2-7 will work. Same goes for activity, if you have access to the activity on layer 1, you have access to the activity on layer 2-7. There are so many things to account for here, but this is a general walkthrough. So when you think of the physical layer, understand that it defines the means by which bits are transmitted over a network. The unit of data at this layer is called the bit.
+A bit is either a 0 or a 1. It’s the smallest unit of data that is transmittable digitally.
+The requests for bits come from the next layer, the data link layer.
+2. Data Link Layer
+The data link layer is responsible for the correct transfer of data between nodes. By correct, we mean it follows a protocol. The unit of data at this level is frames. Frames can have a fixed-size or a variable-size. In each, the limits of the frame need to be defined. These are know as frame delimiters.
+In fixed-sized framing it is already defined with the frame itself being fixed. In variable sized-framing, there are two ways to define the delimiters.
+The length field is one way to define the delimiter. It is used to define the size of the frame.
+The end delimiter is another way. A pattern is used to determine the size of the frame.
+Frames have 4 parts.
+Frame header - Contains the source and destination addresses of the frame.
+Payload field - Contains the message to be delivered. Sometimes encrypted, sometimes not.
+Trailer - Contains the error detection and error correction bits.
+Flag - Marks the beginning and the end of the frame.
+IP (Internet Protocol) addresses identify a network interface, as well as location. The MAC (media access control) is an address that every computer has. If it does not have a MAC address it cannot be transferred information on a network. Think of it as the license plate of a car.
+3. Network Layer
+The network layer is responsible for routing data packets between different networks. It is also responsible for addressing and forwarding packets to their intended destinations. The unit data at this layer is called a packet.
+It is like a GPS for your data. It determines the most efficient path for data to travel from one network to another.
+Using IP addresses to identify different networks and routers to forward packets along the way, it also uses OSPF and BGP to determine the best path for a packet to take based on factors such as network congestion and the speed of different connections.
+OSPF (Open Shortest Path First): This is how the most efficient path between source and destination is found. If you'd like to find out how, you can find ithere.
+BGP (Border Gateway Protocol): Sometimes referred to as the postal service for the internet. When someone drops a letter into a mailbox, the Postal Service processes that piece of mail and chooses a fast, efficient route to deliver that letter to its recipient. Similarly, when someone submits data via the Internet, BGP is responsible for looking at all of the available paths that data could travel and picking the best route, which usually means hopping between autonomous systems.1
+4. Transport Layer
+The transport layer is responsible for the data transfer between end systems (ie. computer and a web server). It ensures that data is delivered in the correct order, without errors, and without duplicates. The unit of data at this layer is called a segment.
+Like a delivery truck, it makes sure your package is delivered to the correct address, on time, and in good condition. It uses port numbers to identify different applications running on a computer, and it provides end-to-end flow control and error recovery mechanisms to ensure reliable data transfer. These are some of the reasons why it is known as theheartof the OSI model.
+Two of the most common transport layer protocols are TCP and UDP. TCP provides reliable data transfer, while UDP is faster but does not guarantee as reliable of a delivery.
+TCP (Transmission Control Protocol): A core part of the Internet Protocol (IP) that is used to transmit data over the internet. Used for web browsing, file transfers, and other applications that require reliable, ordered data transmission. It uses a 3 way handshake to establish connection, flow control, and error recovery.
+UDP (User Datagram Protocol): The protocol used for video streaming, online gaming, and the like. UDP makes no guarantee that packets are delivered in the same order they were sent, unlike TCP. It has less overhead, and makes it ideal for fast, low-latency transmission.
+5. Session Layer
+It is worth noting that in the IP/TCP model layers 5-7 are rolled into one, the application layer. These 3 layers are implemented in the network itself.
+The session layer is responsible for establishing, maintaining, and terminating sessions between applications running on different computers. It allows multiple applications to communicate with each other simultaneously and ensures that data is delivered securely. The unit of data at this layer is called a message.
+Serving as a virtual meeting room where different applications can meet and communicate with each other. It provides services such as authentication, encryption, and access control to ensure that only authorized applications can participate in a session.
+6. Presentation Layer
+The presentation layer is responsible for ensuring that data is presented in a format that is understandable by the application layer. It is responsible for data encryption, compression, and conversation between different data formats. The unit at this layer is called a data stream.
+Think of the presentation layer as a translator. It takes the data that the network can understand, and turns it into data that the application can understand. If you like miracles, compression is one of them. JPEG & IMG as image compression, MP3 for audio, and even DNA compression2have allowed various domains of information to be stored and transferred across global networks.
+7. Application Layer
+The application layer is the layer that interacts directly with the end-user. It provides services such as email, file transfer, and web browsing.
+It is the store front, the place where the user interacts with the network.
+Conclusion
+This model started it all for me. It gave me a visual understanding of how the internet works from the ground up. I hope this gave some understanding and maybe you learned a thing or two. I mostly wrote this as an exercise for communicating concepts in an understandable manner, hence the analogies.
+https://www.cloudflare.com/learning/security/glossary/what-is-bgp/↩
+https://www.sciencedirect.com/science/article/abs/pii/S1878778921000508↩
+#infosec#writing
+
+Sentiment Scores: {'neg': 0.02, 'neu': 0.892, 'pos': 0.088, 'compound': 0.9982}
+================================================================================
+
+Title: 📚 Barbarians at the Gate by Bryan Burrough & John Helyar
+Link: http://macabe.info/barbarians-at-the-gate-by-bryan-burrough-john-helyar/
+Date: 
+
+
+                    20 Feb, 2023
+                
+
+
+Content:
+📚 Barbarians at the Gate by Bryan Burrough & John Helyar
+20 Feb, 2023
+Buy here
+I picked this book up after seeing it on many people's list, and after the bird app buyout I wanted to read a story about such a thing. Burrough & Helyar do an incredible job of detailing the origins of RJR Nabisco. Humble roots that were taken for a ride by Ross Johnson, the CEO at the time of the leveraged buyout.
+It begins by introducing 3 key figures. Johnson, Henry Kravis and George Roberts. Johnson has an odd leadership style, and is trigger happy on the companies fleet of private jets to fuel his extravagant lifestyle. Henry Kravis and George Roberts are the founders of Kohlberg Kravis Roberts, the private equity firm that will eventually acquire RJR via LBO.
+When I say eventually, the deal does not get done until the last chapter of the book. You walk through the history of the company, Johnson's climb to CEO from lightbulb salesman, getting run out of Winston-Salem, NC, the bidding wars on wall street, and all the gossip in between.
+As someone who enjoys economic history, the details around the origins of the company were very interesting. It started out in Winston-Salem, NC circa 1875 as a tobacco company, R.J Reynolds Tobacco Company. This company would become one of the most successful in the US, and birthed brands such as Camel. Notorious for aggressive marketing.
+1875 is right after the Civil War in the United States. The Civil War destroyed the aristocracy of the South that was built on slavery. The generation that came after saw the industrial north as the future, and the agrarian ways as the past. It become home to some of the most successful entrepreneurs of the early 20th century.
+"From this new industrial South emerged a class of entrepreneurs that combined the flamboyance of the Southern gentleman with the shrewdness of the Yankee trader. They were hard-drinking, big-spending, and fiercely competitive."
+Fast forward to 1985 when Johnson becomes CEO, and the big-spending fits in just right. He joined R.J. Reynolds Industries in 1978 and put in charge of the company's food business. He grew the business, and even managed to help merge with Nabisco Brands. He had the support of the board, and within a few quarters after the merger, he was CEO of RJR Nabisco.
+It was just 3 years later that his leadership style and spending habits would make him the target of a takeover bid by KKR. Everyone wanted a piece of it on Wall St. You get a glimpse of some of the origin stories of names like Cohen, Pritzker, Kravis, and even Bilzerian. Yeah, the one you know of is a trust fund kid. His pops is mentioned in the book.
+Overall the book was solid. Did not grab me, but was intersting to see all these names and their hand in the story. I'll never look at Oreo's the same.
+#books#economics#history
+
+Sentiment Scores: {'neg': 0.037, 'neu': 0.907, 'pos': 0.056, 'compound': 0.8334}
+================================================================================
+
+Title: 🪶 happy
+Link: http://macabe.info/happy/
+Date: 
+
+
+                    19 Feb, 2023
+                
+
+
+Content:
+🪶 happy
+19 Feb, 2023
+Happy that chances taken have led to incredible people and experiences. Happy that family has taught unconditional love. Happy for friends to share wins and losses.
+The acknowledgement that emotions are ephemeral is core. Happiness is good because of feelings of blue. This is something when learned, weights are lifted.
+It makes all emotions kind of special in a way. Life is much more enjoyable now.
+That is all.
+#thoughts#writing
+
+Sentiment Scores: {'neg': 0.026, 'neu': 0.569, 'pos': 0.404, 'compound': 0.99}
+================================================================================
+
+Title: 🪶 language in a new medium
+Link: http://macabe.info/language-in-a-new-medium/
+Date: 
+
+
+                    28 Dec, 2022
+                
+
+
+Content:
+🪶 language in a new medium
+28 Dec, 2022
+Generally speaking, people are good at gaging one another during conversation. Awareness of the subtleties and nuances take time to develop. We learn them as we age, as we have conversations that span many topics and emotions, and as we watch others.
+I mention this in order to understand how we see these things in the digital medium. What are the subtleties we are learning to pick up on? What are some events that have caused us to learn them?
+When I say we - I am talking about the people who are here. Here online. We continuously learn to decipher others on this new behavioral landscape we venture to more and more. To work, learn, communicate, and collaborate with both people and machines. A global village perhaps?
+A mutual of mine mentioned the philosopher Marshall McLuhan, who coined the phrase, "the medium is the message." McLuhan was particularly entranced with the medium of the printing press, and ideated that something resembling a global village would emerge due to the interconnection made possible by various forms of media. Having passed in 1980, I could only imagine what he'd say about the internet if he were with us today.
+The medium is the message
+What does it mean?
+When McLuhan said this, he was trying to say that when it comes to communication, the communication medium should be the focus of study, not the message itself. In other words, I could call you and say "I love you", I could write you a letter that says "I love you", and I could text you a message that says "I love you." They all say the same thing, but the communication medium is what really matters. He was an incredible mind that gave us thoughts and theories that mesmerizes most. The following is from his bookThe Gutenberg Galaxy.
+[I]f a new technology extends one or more of our senses outside us into the social world, then new ratios among all of our senses will occur in that particular culture. It is comparable to what happens when a new note is added to a melody. And when the sense ratios alter in any culture then what had appeared lucid before may suddenly become opaque, and what had been vague or opaque will become translucent.[^1]
+I have no data to back this up, but we are growing and maturing with this relatively new digital media landscape. My reasoning rests in our ability to learn from the past. As time goes on, we have more and more examples of charlatan-like, manipulative, and divisive behavior in this medium. I remain optimistic in our ability to navigate and overcome bad-actors as we have for the span of time.
+#thoughts#writing
+
+Sentiment Scores: {'neg': 0.01, 'neu': 0.936, 'pos': 0.054, 'compound': 0.9555}
+================================================================================
+
+Title: 🪶 ledgers and intelligence: thoughts on the nature of education for 2023 and beyond
+Link: http://macabe.info/ledgers-and-intelligence-thoughts-on-the-nature-of-education-for-2023-and-beyond/
+Date: 
+
+
+                    21 Dec, 2022
+                
+
+
+Content:
+🪶 ledgers and intelligence: thoughts on the nature of education for 2023 and beyond
+21 Dec, 2022
+Intro
+AIandcryptofind themselves to be of frequent use in the vernacular of the 2020's. People write them off as buzzwords, as is the case with most new things. I want to think through their potential impacts to education, so I'm writing about it.
+For crypto, my interest is in the aspect of a distributed ledger. For AI, I'm more interested in the effects that cheap and accessible intelligence will have on the development of our own. Two technologies that have already influenced capital markets, talent markets, and will continue to do so moving forward. Twobuzzwordswords.
+The following questions served as a form of guidance for thought surrounding the subjects.
+1. How can distributed ledgers change the way we account for a persons learning experience?
+2. How can AI tools be incorporated into pedagogical practices?
+Nature of Education
+So, education as we know it. What is that?
+College. It is baked into the dream of a happy and successful life in the US. Harvard University was the first in 1636, and after the American Revolution, a number of colleges were established to provide an educational foundation for our new nation. Today, the industry has found itself to be heavily relied on for research, certification of ability by employers, amateur athletics, and a shared social experience that has represented a right of passage to the professional world.
+However, things are changing in the professional world. The reason most of the populous goes to university in the first place. Employers are beginning to shed the requirement of a degree for entry-level positions. A trend that began with tech companies, and willspreadto other industries. As the degree loses value each quarter as companies no longer require them, the industry ripens for disruption and innovation.
+To be clear. Not having a degree does not mean you have the same chance as getting the job vs someone who does. A degree still holds some weight in regards to the signifier of "college experience." You still need to learn applicable knowledge, know how to work and communicate with others - things a college education can provide, but so can other experiences. But what does any of this have to do with distributed ledgers or AI?
+Distributed Ledgers
+General Summary
+A distributed ledger is like a special kind of book that everyone can use to keep track of things. In a distributed ledger, everyone has a copy of the book, and they can all write in it or make changes to it. This way, everyone always has the most up-to-date information, and they can all see what's happening. A distributed ledger is called "distributed" because the book is spread out and shared among many different people, instead of being kept in one place. It's called a "ledger" because it's used to keep track of things, like money or important information. You may have heard this term used with blockchains or cryptocurrencies.
+How can distributed ledgers change the way we account for a persons learning experience?
+I mentioned itbefore, but the ability to account for multiple paths to competency is now possible. Meaning we can now account for each individual's learning path as they navigate a large quantity of learning material. Traditionally we learn the same things, at the same time, in the same way because it is easiest for administration to test and track; to account for. This is where the case for distributed ledger technology comes in.
+The accountability a distributed ledger enables is a huge reason for its use case in cryptocurrency. For education, it has the potential to completely change the way an education is administered. We can account for every learning experience, regardless of an interaction with an institution or not. Regardless of being inside a classroom or not. What is read, watched, or heard can be accounted for in some fashion. The best part is that teachers are free to do what they do best.
+The teacher provides and/or explains material. Their role becomes very similar to that of an artist. In other words they try to evoke the observer to try and understand, ask questions, become interested in whatever it is they are teaching. No longer strapped with deadlines and the need to shovel information to students, the educator can simply educate. The word educate comes from the latin wordeducere, which means to "to bring out, lead forth." This ability is what good artists and teachers share. An ability that can be enhanced by the following topic.
+AI
+General Summary
+It is like a robot that can think and do things on its own. It's not a real person, but it can act like one. AI can be programmed to do lots of different things, like help people with their work or play games with them. Some AI is really smart and can learn new things on their own, just like a human. Some people think AI is really cool because it can make our lives easier, but others are worried about what might happen if it gets too smart.
+How can AI be incorporated into pedagogical practices?
+The word pedagogical comes frompedagogy. A field that has housed names like Socrates, Confucius, and Plato among others. The underlying characteristics of academia's pedagogy is structured around the style of assessment that is used. The tools coming out of ventures like OpenAI, DeepMind, Meta AI, and the like can be used to help automate current methods of assessment, but also create new ones.
+The current styles of assessment are partly economic.[^1] Essays and paper-tests are cheap, and take less time to grade than more interactive forms of assessment like conversation or reflective work. Administrative bloat is already a big issue in higher ed[^2], and the case to add more admin for support in forms of assessment that undermine entire operations makes little sense. AI tools are a scaleable solution to new forms of assessment, but the system is so rooted in its current form of assessment that change is nowhere to be seen on the horizon.
+We have seen the AI buzz amongst artists, musicians, and the greater public. But as mentioned above, teachers are very similar to artists in the sense that the nature of their work parallels. AI can aid in the creation of exercises, transcription of conversations amongst learners, and other ways to let teachers focus on the goal, development. The teachers who adapt will benefit greatly from the advancements in this field. Yet the will of the teacher is not enough to the bureaucracy of academia.
+Academia is frustratingly slow at acknowledging change, but students are blazingly fast. The process of change goes like so - ignore it, reject it, ban it, and then accommodate it.[^1] This happened with calculators, mobile phones, and will happen again with AI. We'll see an arms race against AI tools before we see acceptance.
+Conclusion
+The educational renaissance is not likely to happen in the halls of universities, but rather in the realm of bits. A place that draws more people, more information, and more activity for intellectual engagement. A place where change is canon. Our institutions of learning have a huge demand for change from the populous, but no incentive to do so. The incentive of the entrepreneur is that of disruption to the trillion dollar industry of higher education. On a 15-20 year time horizon we will see this change right in front of us, and it will come from the private sector. Education will take a new form as energy costs drop, and new forms of intelligence aid in the development of our own.
+#thoughts#writing
+
+Sentiment Scores: {'neg': 0.029, 'neu': 0.834, 'pos': 0.136, 'compound': 0.9993}
+================================================================================
+
+Title: 🪶 thoughts on learning
+Link: http://macabe.info/what-learning-can-be/
+Date: 
+
+
+                    14 Nov, 2022
+                
+
+
+Content:
+🪶 thoughts on learning
+14 Nov, 2022
+What doeslearningsignify?
+A chaotic process rooted in experience and exposure.
+Something that is poorly modeled in the classrooms of standardized learning environments today. Yet the beauty and order that still emerges from the dated system is applaudable. A few good cookies make the rest of the batch okay enough to not do anything about its faults.
+But the question is, can we do better?
+In other words, can we account for the chaos and complexity in a way that is more personalized? Which seemingly all avenues of information consumption are becoming more and more capable of doing.
+Fortunately, the internet allows us to model these things. An incredible potential and tool that is used for learning today. However, no system of development accounts for this ability. The attempts ofaccreditedonline learning have simply moved the standardized model online, and most of the time it sits behind a paywall. One path fits all, pay to get credit... there is little innovation, if any at all.
+This is something that has been harped on for centuries. Yes, centuries!
+Influences
+It ought to be said that the thoughts above are largely influenced by the Cartesian school of thought.
+René Descartes is understood as the father of modern philosophy. Aside from cartesian doubt practically birthing the scientific method, he wrote much about reasoning, the process of learning, acquiring knowledge, knowledge itself, and the respective roles they play in society. InDiscourse on Method1, he details a relatable description of learning outside of an institution. Learning by oneself.
+"As soon as I completed this entire course of study, at the end of which one is ordinarily received into the ranks of the learned, I changed my mind entirely. For I was embarrassed by so many doubts and errors, which appeared in no way to profit me in my attempt at learning, except the more and more I discovered my ignorance." - René Descartes, Part One, 5, Discourse on Method
+The notion many can relate to comes from the doubts that occur during/after undergrad, or even high school for some. The doubts surrounding what was taught, what you havelearned, and the practicality of it all. Business, engineering, hard sciences, liberal arts, or other degree types can all relate. Do the teachings still apply? Do the methods still apply? Should I have had a different focus? Regardless of the answer to these questions, the matter is that one has a share of doubts surrounding their education.
+This is largely the reason Descartes sets out to discover knowledge on his own accord. The doubting of all things is where he begins the search for truth. This is where his famous quote of "I think, therefore I am" comes from. By doubting his own existence, he found his first truth, his own existence. In other words, the act of thinking about oneself, implies the existence of oneself.
+However, he mentions that this is not something everybody is built to do.
+"The single resolution to detach oneself from all beliefs one has once accepted as true is not an example that everyone ought to follow; and the world consists almost completely of but two kinds of people and for these two kinds it is not at all suitable: namely those who, believing themselves more capable than they really are, cannot help making premature judgements and do not have enough patience to conduct their thoughts in an orderly manner; thus, if they once take the liberty to doubt the principles they have accepted and to keep away from the common path, they could never keep to the path one must take in order to go in a more forward direction - they would remain lost all of their lives." - René Descartes, Part Two, 15, Discourse on Method
+This speaks volumes today. The mob school of thought that requires the destruction of opposing beliefs all together is detrimental to society at large. The personal nature of learning is something we should value, and defend. The discovery of new beliefs, or the falsity of old ones is for an individual to journey, possibly with the help of friends or a community. Not through persecution, damnation, or sensationalization of ideas. It is not how truth is pursued in any sense.
+Descartes gives a great analogy about this earlier in Part Two.
+"It is true that one does not see people pulling down all the houses in a city simply to rebuild them some other way and to make the streets more attractive; but one does see that several people do tear down their own houses in order to rebuild them, and that even in some cases they are forced to do so when their houses are in danger of collapsing and the foundations are not very steadfast." René Descartes, Part Two, 13, Discourse on Method
+Conclusion
+Without turning this into a book report forDiscourse on MethodI wanted to highlight some key points that underpin the thoughts on learning above. Specifically, the personal nature that we do not account for, but has been understood for centuries.
+Why we learn the same things, at the same time, in the same way, will always confuse me. We will do better because we now can.
+Teachers are no longer limited to the classroom. The advancements in AI opens a whole new understanding of what a tutor can look like. The assumption I take when discussing these things is that there are curious people in this world. People want to learn more. Hopefully school has not squashed that, as that is the case for some. I believe people are innately curious, its like our superpower. That curiosity needs to be fostered, not removed. Going through the thoughts of great minds, from this century or centuries earlier, one thing rings true. Learning is personal. We are building around this truth atCalibir.
+I thoroughly enjoy Descartes (besides his view on the education of women), particularly because of the time period in which his work came about. He lived at the beginning of the enlightenment, a time period which rhymes somewhat with today, as others do, but that is for another time. He provided a framework to pursue knowledge, which later came to be the scientific method. His wealth of knowledge for mathematics, optics (if you wear glasses you owe this man some respect), and natural science are all around us today. One could make the argument that if it was not for Descartes, Isaac Newton would not havePrincipia.
+In other words,Descarteswalked so Newton could run.
+Descartes. (1993). Discourse on Method and Meditations on First Philosophy (Cress, Trans.; 3rd ed.). (Original work published 1637)↩
+#writing
+
+Sentiment Scores: {'neg': 0.07, 'neu': 0.816, 'pos': 0.113, 'compound': 0.9955}
+================================================================================
+
+Title: 🪶 growth
+Link: http://macabe.info/growth/
+Date: 
+
+
+                    31 Oct, 2022
+                
+
+
+Content:
+🪶 growth
+31 Oct, 2022
+What does it mean?
+By definition it means;Development from a lower or simpler to a higher or more complex form; evolution. This can be applied to many things. Like oneself.
+Leaving undergrad in the midst of the pandemic gave me a lot of time to think about how myself, and my habits mirrored the world around me. All while attempting to build a company. Habits I've had since I was young, but also the ones formed throughout high school and undergrad. The good and the bad.
+I loved to read when I was young. I always looked forward to the time we were given in school to stop whatever it was we were doing, and read. Same goes for bed. It signified a time of relaxation with a sense of exploration that school never gave me. But along the way I stopped.
+To this day I am not quite sure why. Maybe schoolwork started to take more time. Maybe I had to start making friends instead of reading. Maybe I was just a kid, and wanted to mirror those around me. Maybe it was the smartphone I got in 10th grade. Maybe it was a combination of these things.
+It was not until after undergrad that I became aware of what I had lost. In many ways I was proud of myself and what I had accomplished. But in other ways I had forgotten the inner-child. That sense of wonder and curiosity. That joy for learning through reading and doing. If it was not for some time at home, I would not have rediscovered a joy for things, and understand how to protect that and nurture it.
+I credit the following.
+It is important to note that you will not have it all, all the time. Habits may regress, but you'll know it.
+Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom. - Victor Fankl
+Show up, take it one day at a time, and choose your own responses.
+#writing
+
+Sentiment Scores: {'neg': 0.06, 'neu': 0.775, 'pos': 0.165, 'compound': 0.9924}
+================================================================================
+
+Title: 🪶 making a social graph with python & gephi
+Link: http://macabe.info/making-a-social-graph-with-python-gephi/
+Date: 
+
+
+                    19 Oct, 2022
+                
+
+
+Content:
+🪶 making a social graph with python & gephi
+19 Oct, 2022
+Prerequisites
+You’ll need the following to create this project.
+All of the information we collect in this walkthrough is accessible to anyone with an internet browser. No harm was done in doing this, and I had the consent of the accounts I scanned and collected.
+The file structure is very important. Use the following as reference. It will be referred to throughout the tutorial.
+Step 1 - Collecting the data
+I used my fantasy football league as the sample. We all met in college, and some guys are from the same hometown, so it made for a good sample to see clusters overlap, as well as secluded ones. For the record our league is called the “League of Nations” and each team is a nation. So if you see that throughout don’t fret.
+Go to an instagram account
+When you have the profile you’d like to scrape in front of you, go ahead and open the dev tools. It should appear like below, and you are going to click on the network portion which is where the green arrow is pointing too.
+
+Collect and save followings of the profile
+The network log will begin to record the activity as you scroll through the followings. Scroll all the way to the end of the accounts followed by the account you are scraping.
+Then save the activity log by clicking the button in the top right, see green arrow in screenshot.
+Make sure you save the file as an HTTP archive (.har) as follows:
+./data/{account_scraped}/(save here)
+I saved all of these files asfollowing.har.
+Save the profile JSON file
+At the end of the url you are going to insert either ?__a=1 OR ?__a=1&__d=dis. If one does not work the other should. You should get the following.
+
+Save this to./data/{account_scraped}/(save here)as a JSON file.
+Again, we saved each asprofile.jsonunder theaccount_scrapedfolder within the data folder.
+./data/{account_scraped}/(save here)
+Make sure the files are complete so you do not have any issues extracting the data you’d like. Like Idid. It is okay if you make mistakes. It presents an opportunity to ask questions and get the help you need.Stackoverflowis a great place for this.
+Step 2 - Extracting the data
+This is where python comes in. Go ahead and create folder named “src” and a file called “extract.py”. It should be structured as below.
+./src/extract.py
+We are going to import the following:
+The idea of this python file is to extract the information we want so we can process it, and then visualize it. To start, let’s get the followings of the user which we have in the http archive files (following.har).
+This function extracts the profile information of the user.
+This function extracts the followings of the user.
+This function extracts the profile and followings of the user.
+This function extracts the profile and followings of all the users.
+The file appears in './out/people.json'
+This function call extracts the profile and followings of all the users.
+extract_all()
+Step 3 - Processing the data
+Now that we have the data extracted, we need to process it into nodes and edges so we can easily visualize it with gephi. So go ahead and make a new python file in the src folder titled process.py
+./src/process.py
+Once again, the purpose of this script is to take the data we have extracted which can be found in ./out/people.json , but first we have to import the following.
+Open people.json
+Once we’ve imported what we need, let us go ahead and open thepeople.jsonfile and load it into a variable called data.
+Nodes and Edges list
+After we have opened thepeople.jsonfile we are going to create two empty lists called ‘nodes’ and ‘edges’.
+Loop through data and acct info for nodes
+After our lists are created, we are going to loop through the data and add the account’s information to the nodes list. In this example we wanted the id, username, full name and to know if the account was private or not.
+Loop through followings for nodes
+After we have the desired account information we are going to loop through the followings of the account and add their information to the nodes list.
+Loop through followings for edges
+After we have the nodes list in order, we are going to now loop through the followings again, but this time we will be adding an edge to the edges list.
+Convert nodes and edges list to pandas DataFrame and save as a csv file.
+Now all we have to do is convert our lists and save them as a .csv file for gephi.
+Step 4 - Visualize
+Now all you have to do is open gephi, click on the data laboratory tab, then import your newly saved nodes.csv and edges.csv.
+Play around with the different sorting algorithms and see what each of them do, and get used to the customization features. It’s an awesome visualization tool. Hopefully you learned a thing or two by reading this. Free of charge, as it should be.
+I uploaded mine to github pages afterwards.
+
+#infosec#technicalwriting
+
+Sentiment Scores: {'neg': 0.009, 'neu': 0.895, 'pos': 0.096, 'compound': 0.9963}
+================================================================================
+
+Title: 📚 Life After Google - The Fall of Big Data and the Rise of the Blockchain Economy by George Gilder
+Link: http://macabe.info/life-after-google-the-fall-of-big-data-and-the-rise-of-the-blockchain-economy-by-george-gilder/
+Date: 
+
+
+                    22 Sep, 2022
+                
+
+
+Content:
+📚 Life After Google - The Fall of Big Data and the Rise of the Blockchain Economy by George Gilder
+22 Sep, 2022
+Review
+Buy here
+The idea of the book is that we currently operate on google’s system of the world, and that there are technologies that can move us past the oligopoly. To be clear this book is not a slander on google by any means. Gilder gives google the praise it is worthy of. The creation of arguably the worlds greatest money machine, its ad-based search engine that has birthed this system of the world. However, he argues that the age of centralized big data is coming to an end, and that the future belongs to the blockchain economy.
+He takes this term from Neil Stephenson’sBaroque Cycle, where it is used to denote a set of ideas that pervade a society’s technology and institutions that inform its civilization. Gilder does an incredible job taking you through the mathematical history of what makes this system possible.
+The information economy is still spoken about as if it is a new thing. Yet Gilder shows the reader that the underlying mathematics have been here for decades, and it was google who consummated it all. From the likes of Isaac Newton, Kurt Gödel, Alan Turing, Gregory Chaitin, William Briggs, John von Neuman, Hubert Yockey, Claude Shannon, Peter Drucker, and Ludwig Boltzmann came google’s system of the world. Sometimes referred to as the information economy.
+Google’s idea of progress stems from its technological vision. Newton and his fellows, inspired by their Judeo-Christian world view, unleashed a theory of progress with human creativity and free will at its core. If the path of knowledge is the infinitely fast processing of all data, if the mind - that engine by which we pursue the truth of things - is simply a logic machine, then the combination of data and algorithm can produce one and only one result. Such a vision is not only deterministic but ultimately dictatorial. If there is a moral imperative to pursue the truth, and the truth can be found only by centralized processing of all the data in the world, then all the data in the world must, by the moral order implied, be gathered into one fold with one shepherd. Google may talk a good game about privacy, but private data are the mortal enemy of its system of the world.
+The walk through of how google came to be the force they are was very well done. I enjoyed how Gilder detailed the remarkable compilation of minds at 1600 Amphitheater Parkway. Working on problems at all levels of theOSI model, making chapter 14 my favorite of the book. From optimizing the way light moves through fiber optic cables, to testing underwater data centers for cooling purposes, to using machine learning that moves “search” to “suggest,” the reader is provided insight into how google has some of the brightest minds working at each level.
+So does lifeaftergoogle come into play?
+The book focuses on google predominantly, but also mentions the likes of facebook, amazon, and apple as participants in the same manners and methods Gilder details with google. That is why oligopoly is often used instead of monopoly. It is worth noting the emphasis on blockchain and its potential is not a (project name) maximalist one. This is the same author that in 1990 published,Life after Television, where he predicted the personal computer would become the smartphones we see today. The same author that in 2000 published,Telecosm, where he predicted the fibre optic communication infrastructure to scale to a magnitude where costs would reach practically zero. George Gilder is a widely respected mind when it comes to forecasting technology.
+His tone surrounding blockchain and cryptography is one of reason, with a hint of revolt. I will say the last 3 chapters of the book did fall off compared to others. It was published in 2018 so the narrative surrounding the space was greatly allure and grandiose visionaries. However, what amazing movement starts without such a thing? I’m very curious to see what he has to say about the time passed since publishing of the book. Great read.
+#books#economics#history#infosec
+
+Sentiment Scores: {'neg': 0.016, 'neu': 0.859, 'pos': 0.125, 'compound': 0.9975}
+================================================================================
+
+Title: 📚 The Wires of War - Technology And The Global Struggle For Power by Jacob Helberg
+Link: http://macabe.info/the-wires-of-war-technology-and-the-global-struggle-for-power-by-jacob-helberg/
+Date: 
+
+
+                    07 Aug, 2022
+                
+
+
+Content:
+📚 The Wires of War - Technology And The Global Struggle For Power by Jacob Helberg
+07 Aug, 2022
+Review
+Buy here
+How two powers and two ideologies underlay the worlds modern networks. Walk through the story of how we arrived at the race for a democratic and open web or one controlled by an authoritarian state. Parallels history of the internet with history of relations between Silicon Valley and Washington D.C. From ARPANET to 1989 to Moscow to Beijing, you get a sense for our worlds geopolitical landscape in cyberspace.
+Chapter 6 titled,Winning the Gray War, was the highlight of the book. The author details a plan for the democratic web to win this race. He keeps a bipartisan tone for the bipartisan issue, tipping the cap to both sides while also expressing frustration with both sides. He begins the chapter at NATO’s Cooperative Cyber Defense Center of Excellence in Tallin, Estonia where the sickle and hammer are still visible in parts. A place that used to be under soviet rule, and now a place where academia, military, government, and industry converge for workshops and presentations. It is referred to as “The Gray War” because it finds itself in the gray area that involves all of the sectors mentioned.
+On one hand you have the potential to cause an act that provokes an Article 5 response from NATO (an attack on one is an attack on all), and on the other you have strings to pull that may disrupt a supply chain or steal intellectual property. It is a non-linear issue and more resembles theglassball with tiny lighting bolts inside, that if touched change bolts around it.
+With China establishing its techno-bloc of nations, bound by Chinese-built networks and tech companies, the United States should demarcate its own techno-bloc of nations operating under democratic principles and using Internet Infrastructure free of authoritarian influence.
+In order to combat anything on this spectrum he calls on the elevation and institutionalization of digital defense. It is not something I entirely agree with, but understand the call for it. In order to do such a thing, Silicon Valley and Washington D.C. relations need to take a step forward, together. It is understood that Silicon Valley began on a revolutionary tone, and has held an anti-washington attitude for most of its modern age. Move fast and break things works well in the industry, but not well in government. This is at the root of not being able to see eye to eye for so long.
+Chapter 7 titled,A Sputnik Moment, talks about “the imperative of human capital to stay competitive…” and goes into a call for the reindustrialization of the free world. The work we’re doing atcalibirmade the following quote stand out.
+But twenty-first-century education is a continuum, and a single entity devoted to that objective would allow us to better support Americans with the skills they need throughout their professional lives.
+The founding principles of the web, started with ARPANET in 1969 are a reflection of the democratic principles that underlay the creation of the United States. People in Silicon Valley and Washington D.C. share a common goal in protecting these values, and a common foe in the authoritarian fibers running from Beijing.
+All in all this book made me think about a variety of things. TheOSI model, the current infrastructure and its vulnerabilities to kleptocratic purposes. Also crypto brain had some flickers. The book didn’t mention it specifically. Yet with the percolation of a blockchain based web with security being a pillar of its infrastructure, it is something to consider. Awesome read.
+#books#history#infosec
+
+Sentiment Scores: {'neg': 0.041, 'neu': 0.861, 'pos': 0.099, 'compound': 0.9894}
+================================================================================
+
+Title: 📚 Benjamin Franklin - An American Life by Walter Isaacson
+Link: http://macabe.info/benjamin-franklin-an-american-life-by-walter-isaacson/
+Date: 
+
+
+                    31 May, 2022
+                
+
+
+Content:
+📚 Benjamin Franklin - An American Life by Walter Isaacson
+31 May, 2022
+Review
+Buy here
+After understanding the point in history in which Franklin lived his life, his role as a writer, scientist, diplomat, and representative become more and more admirable. As well as core to the sculpting of the United States. The American icons that are somewhat marbleized as god-like such as Washington, Jefferson, and Monroe are distinct from Franklin. A figure who is more relatable in regards to his qualities and character. This is not to say the man was flawless, as no man is. As he climbed the ranks of society he maintained his middle class nature, and made it critical to the foundation of our nation as a diplomat, as well as a representative.
+Something that people either admire him for, or ridicule him for is his attempt at “moral perfection.” He noted twelve virtues to desire:Temperance, Silence, Order, Resolution, Frugality, Industry, Sincerity, Justice, Moderation, Cleanliness, Tranquility, Chastity. In the book these virtues have a description after them that adds more detail, and I’m sure you can find them with a quicksearch. I hold the belief that moral perfection is an unattainable goal, but it is in the attempt one shows that judgement should be made. Understanding that perfection of morality cannot be achieved does not mean to dispose of morality all together. This brings us to another insightful part of his life, his religious views.
+His religious views are not one of a particular religion. However, he did label himself as a daoist early in life, and became knowledgeable of the religions of the world. He understood the underlying morals of religions were pretty much the same, and that treating your fellow human being as you would want to be treated was the foundation of all. In his final summation of his religious thinking, one month before he died he said the following.
+I believe in one God, Creator of the Universe. That he governs it by his Providence. That he ought to be worshipped. That the most acceptable service we render to him is doing good to his other children.
+This attitude appeared in his role as a mediator at the Constitutional Convention of 1787 where he calmed the sides, one arguing for one nation, and one for 13 separate colonies. At the time he was by far the oldest in the room, yet the most respected, traveled, and the one who embodied the spirit of the Enlightenment; tolerance and compromise. If he had not held the attitude and character he did during the convention, the completion may have never occurred. Isaacson details this spirit of Enlightenment that helped shape the nation of the United States. It comes after the debates at the convention grew heated, and were becoming threatened to break up the convention all together.
+After making his plea that members consult rather than contend, he expressed sentiment that he had preached for much of his life, starting with the rules he had written for his Junto sixty years earlier, about the dangers of being too assertive in debate. “Declarations of a fixed opinion, and of determined resolution never to change it, neither enlighten nor convince us,” he said. “Positiveness and warmth on one side, naturally beget their like on the other.”
+His temperance was detailed to make it my most admirable. Throughout his life he dealt with the death of a child, a wife, the decision to imprison his son on behalf of the revolutionary effort, the role of a diplomat on behalf of the King of England, and then the colonies. There were other issues and difficulties he faced, but the temperance displayed through it all was core to the eventual success as an individual, as well as a nation. A great read, and one that restores a combination of Enlightenment spirit in the reader.
+#books#history#inspiration
+
+Sentiment Scores: {'neg': 0.047, 'neu': 0.806, 'pos': 0.147, 'compound': 0.9964}
+================================================================================
+
+Title: 📚 The Lessons of History by Will and Ariel Durant
+Link: http://macabe.info/the-lessons-of-history-by-will-and-ariel-durant/
+Date: 
+
+
+                    18 Mar, 2022
+                
+
+
+Content:
+📚 The Lessons of History by Will and Ariel Durant
+18 Mar, 2022
+Review
+Buy here
+This book popped up on my twitter feed from someone who may or may not be in the Irish mob (If you get this joke, hell yeah). After recognizing the book was 102 pages I gave it a go. This was the best part, 3-4 pg chapters on overarching themes throughout history of humankind. If you want to fully understand the approach/attempt the authors took, read the first chapter of the book,Hesitations. The following quote is how the chapter ends, and captures the tone perfectly.
+It is a precarious enterprise, and only a fool would try to compress a hundred centuries into a hundred pages of hazardous conclusions. We proceed.
+Oh, and they did proceed. The book is like a bingeworthy 26min/ep show on netflix. You eat chapters. There is something about the tone that reminds me of dry english humor mixed with intellect. I don’t know what it is exactly. It might be the fact that it was written in the 60’s, or written by a husband and wife, but I had not read the tone used on such topics like morals, character, race, religion, and war to name a few. The following is an example from the chapterMorals and History.
+Morals are the rules by which a society exhorts (as laws are the rules by which it seeks to compel) its members and associations to behavior consistent with its order, security, and growth… A little knowledge of history stresses the variability of moral codes, and concludes that they are negligible because they differ in time and place, and sometimes contradict each other. A larger knowledge stresses the universality of moral codes, and concludes to their necessity.
+This chapter captured the uniqueness of the book. I had not read about moral codes explicitly in a history text before. The way in which they explain the impact morals have had throughout modernity is something I found very enlightening. History is framed as if it is a living thing, and the people are still here with us in some manner. The time it took to read this compared to the takeaways from the book is a testament to its quality. I enjoyed it, and I hope you do as well.
+#books#history#morals
+
+Sentiment Scores: {'neg': 0.052, 'neu': 0.859, 'pos': 0.089, 'compound': 0.8895}
+================================================================================
+
+Title: 📚 The Alchemist by Paulo Coelho
+Link: http://macabe.info/the-alchemist-by-paulo-coelho/
+Date: 
+
+
+                    23 Jan, 2022
+                
+
+
+Content:
+📚 The Alchemist by Paulo Coelho
+23 Jan, 2022
+Review
+Buy here
+This short read ended up opening my mind to reading more fiction again. The story is about the journey of a young Andalusian shepherd, Santiago, and the search for his dream. He became a shepherd because of a desire to travel and see the wonders of the world - something his father never did. You follow him on a pilgrimage from his homeland in the region of Andalusia (southern Spain) to the pyramids in Africa. Santiago is incredibly observant from the start. He recognizes that there is a way of understanding things beyond language, “the language of the universe” as its referred to. At first this comes with his sheep. He knows when they are ill, thirsty, tired, full, and pregnant through their changes in mood and subtle behaviors.
+You learn more about Santiago’s attention to detail of the sheep he herds. This trait stays with him throughout his journey. His yearn to observe the land in all its glory in order to find a great treasure, but as the story goes on he learns of all of its deceit as well. Omens serve as a critical guide to the boy throughout the story, which I enjoyed his continual reasoning for. He looks at fate as the universe’s greatest lie, saying that all men believe in fate at some point in life, and most of the time is too early in their lives where they no longer pursue a dream. However, he does believe in one universal truth. Somewhat of a contradiction to his beliefs about fate, but more in line with the pursuit of one’s dream.
+There is one great truth on this planet: whoever you are, whatever it is that you want to do, when you really want something it is because that desire originated in the soul of the universe. It’s your mission here on earth.
+He later learns of the wordMaktabmeaning, “it was already written.” Once again testing his beliefs about fate. He had never applied the ability to recognize understanding beyond language to his own dreams until one character showed him the way. It was the King of Salem who introduced him to this notion of oneness. The King of Salem was second to the Alchemist in terms of my favorite characters in the book.
+With that said, it was the seemingly natural wisdom that came from each page making the book something I recommend. Typically I prefer historical books written through a critical/detailed lens, but this book made me consider other genres of literature. Thanks Paulo.
+#books#fiction#inspiration
+
+Sentiment Scores: {'neg': 0.038, 'neu': 0.819, 'pos': 0.143, 'compound': 0.9939}
+================================================================================
+
+Title: 📚 Open - How Collaboration and Curiosity Shaped Humankind by Johan Norberg
+Link: http://macabe.info/open-how-collaboration-and-curiosity-shaped-humankind-by-johan-norberg/
+Date: 
+
+
+                    19 Dec, 2021
+                
+
+
+Content:
+📚 Open - How Collaboration and Curiosity Shaped Humankind by Johan Norberg
+19 Dec, 2021
+Review
+Buy here
+Norberg explains how openness remains a critical factor to economical and societal resilience. Openness can be understood as the willingness and ability to understand prior to making a decision. This is extremely simplified, but captures the nature of the attempt to understand rather than to immediately judge or respond, something we all can be guilty of. The two parts of the book,Open and Closed, approach the topic from a range of angles.
+It should be noted that the stance taken by the author is one that supports open economies and societies. This is supported in the first part where the examples given explain how open societies have trumped closed societies throughout history. The Persians, Macedonians, Romans, Tang Chinese, Mongols, Ottomans, Dutch, British, and Americans are examples used throughout the book and I am sure I am missing a few others. One of the neat examples given is on the topic of cooperation in our species. It is mentioned that the whites of our eyes evolved from the dark colors we see in other mammals as a tool to work with one another. The dark background makes it more difficult to tell where one is looking, so you can get to the juicy fruit first. The white backgrounds have quite the opposite effect. We can see what each other are looking towards: food, threats, other animals, etc. This evolutionary trait led to a more co-operative group, he argues.
+The second part explains the dark nature of closed societies, particularly how they can emerge from open societies. Openness is most susceptible to collapse in times of fast change, when we have a tendency to revert to our tribal nature.
+The word open is not intended to be warm and fuzzy, but rather describe the natural opposite to our tribal nature and groupthink tendencies. Norberg mentions Karl Popper throughout the book to describe the unnatural state of openness, and how authoritarian regimes use this unnatural feeling to claim power by tapping into our tribal roots.
+My favorite quote of the book is Norberg’s use of a Karl Popper quote to begin the last chapter titled,Open or Closed?, which details the choice that we do have for a resilient, open world.
+Civilization has not yet fully recovered from the shock of its birth - the transition from the tribal or “enclosed society”, with its submission to magical forces, to the ‘open society’ which sets free the critical powers of man. The shock of this transition is one of the factors that have made possible the rise of those reactionary movements which have tried, and still try, to overthrow civilization and to return to tribalism.
+Overall, this book was a delight. A phenomenal blend of history and economics all tied into a guide of how our species has grown since the dawn of humanity. If you like history and/or economics definitely give it a go.
+#books#economics#history
+
+Sentiment Scores: {'neg': 0.062, 'neu': 0.838, 'pos': 0.1, 'compound': 0.9553}
+================================================================================
+

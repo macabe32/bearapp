@@ -1,4 +1,3 @@
-import os
 from flask import Flask, request, render_template_string, jsonify, send_file
 import requests
 from bs4 import BeautifulSoup
@@ -8,6 +7,9 @@ import nltk
 import threading
 
 nltk.download('vader_lexicon')
+
+# Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. 
+# Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
 
 app = Flask(__name__)
 
@@ -128,7 +130,7 @@ def index():
         if not domain.startswith('http'):
             domain = 'http://' + domain
         progress = 0
-        # Start the scraping and analysis in a separate thread
+        # start the scraping and analysis in a separate thread
         thread = threading.Thread(target=scrape_and_analyze, args=(domain,))
         thread.start()
         return jsonify({'status': 'started'}), 202
@@ -137,14 +139,14 @@ def index():
 def scrape_and_analyze(domain):
     global progress, output_file
     try:
-        # Define the base URL and blog list URL
+        # define the base URL and blog list URL
         base_url = domain
         blog_list_url = urljoin(base_url, 'blog/')
         
-        # Send a GET request to the blog list URL
+        # send a GET request to the blog list URL
         response = requests.get(blog_list_url)
         
-        # Parse the content of the response with Beautiful Soup
+        # parse the content of the response with Beautiful Soup
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # Find the section containing blog posts
